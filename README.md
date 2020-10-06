@@ -1,5 +1,5 @@
-# CrystalVMs URL Shortener
-You've reached the CrystalVMs URL Shortener. 
+# JIBSIL's URL Shortener
+You've reached my URL Shortener. 
 
 Some quick links: 
-[CrystalVMs Talk](https://meet.crystalvms.com)
+[My YouTube Channel](https://www.youtube.com/channel/UCRhfP-MpIiQIFVyJhII8YKQ?view_as=subscriber)
